@@ -18,6 +18,10 @@ package com.lilinfeng.test;
  * @since JDK 1.6
  */
 public class SayHello {
+	
+	public static void sayHello(){
+		System.out.println("Hello");
+	}
 
 }
 
